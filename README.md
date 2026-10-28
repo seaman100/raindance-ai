@@ -4,7 +4,7 @@ An AI video workspace for turning ideas into short clips.
 
 ## Links
 
-- [Raindance AI](https://raindanceai.pro/)
+- [AI video workspace](https://raindanceai.pro/)
 
 - [Main site](https://raindanceai.pro/)
 
